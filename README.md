@@ -42,3 +42,11 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
+## File Descriptions
+
+* Application main source code: `app.py`
+* Shell scripts for exeuting the applications: `*.sh`
+* Machine Learning Model in folder: `model_data`
+* Text files outputted from the project in folder: `output_txt_files`
